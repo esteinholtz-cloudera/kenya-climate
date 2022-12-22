@@ -1,0 +1,180 @@
+ID,County,Value chain,People in value chain,Input supply,On farm production,Post harvest service providers,Post harvest processors,Market service providers,Market wholesalers/retailers
+1,Busia,Cassava,61-80%,Small scale,Medium scale,NA,Small scale,NA,Large scale
+2,Busia,Local Poultry (meat),61-80%,Medium scale,Small scale,NA,Small scale,NA,Small scale
+3,Busia,Maize,81-100%,Small scale,Small scale,NA,Small scale,NA,Small scale
+4,Busia,Sorghum,41-60%,Small scale,Small scale,NA,Small scale,NA,Small scale
+5,Nyeri,Dairy cow,61-80%,NA,NA,NA,NA,NA,NA
+6,Nyeri,Irish Potatoes,61-80%,NA,NA,NA,NA,NA,NA
+7,Nyeri,Local poultry,21-40%,NA,NA,NA,NA,NA,NA
+8,Makueni,Dairy cow,21-40%,Small scale,Small scale,NA,Small scale,NA,Small scale
+9,Makueni,Green grams,41-60%,medium,Medium and small scale,NA,NA,NA,Medium and small scale
+10,Makueni,Local poultry,81-100%,Medium scale,Medium and small scale,NA,NA,NA,Medium scale
+11,Makueni,Mango,61-80%,Medium scale,Small scale,NA,Small scale,NA,Medium scale
+12,Nakuru,Dairy cow,81-100%,Medium scale,Small scale,NA,Medium scale,NA,Medium scale
+13,Nakuru,Irish Potatoes,21-40%,Small scale,Small scale,NA,Small scale,NA,Small scale
+14,Nakuru,Local poultry,81-100%,Medium scale,Medium scale,NA,Large scale,NA,Medium scale
+15,Nakuru,Maize,61-80%,"demand is low, accessibility to agro dealer",Small scale,NA,NA,NA,Large scale
+16,Taita Taveta,Banana,41-60%,Small scale,Small scale,NA,Medium scale,NA,Small scale
+17,Taita Taveta,Dairy cow,61-80%,Medium scale,Small scale,NA,Small scale,NA,Small scale
+18,Taita Taveta,Maize,81-100%,Medium scale,Small scale,NA,Small scale,NA,Medium scale
+19,Taita Taveta,Goat (meat),61-80%,Medium scale,Medium scale,NA,Small scale,NA,Small scale
+20,Siaya,Beans,61-80%,Small scale,Small scale,NA,Small scale,NA,Small scale
+21,Siaya,Sorghum,61-80%,Small scale,Medium scale,NA,Small scale,NA,Small scale
+22,Siaya,Maize,81-100%,Medium and small scale,Medium and small scale,NA,Medium and small scale,NA,Small scale
+23,Siaya,Local poultry,81-100%,Medium and small scale,Medium and small scale,NA,Small scale,NA,Small scale
+24,Embu,Banana,41-60%,Small scale,Small scale,NA,NA,NA,Small scale
+25,Embu,Beans,21-40%,"All (large, medium and small scale)",NA,NA,Small scale,NA,"All (large, medium and small scale)"
+26,Embu,Dairy cow,41-60%,NA,agro vets shop at retailers,NA,Large scale,NA,Medium and small scale
+27,Embu,Maize,61-80%,"All (large, medium and small scale)",Medium and small scale,NA,Medium and small scale,NA,"All (large, medium and small scale)"
+28,Nyandarua,Dairy cow,61-80%,Small scale,Small scale,NA,Small scale,NA,Small scale
+29,Nyandarua,Irish Potatoes,81-100%,Small scale,Small scale,NA,Large and small scale,NA,Medium scale
+30,Nyandarua,Local chicken,81-100%,Small scale,Small scale,NA,NA,NA,Small scale
+31,Nyandarua,Peas,61-80%,Medium and small scale,Small scale,NA,NA,NA,Small scale
+32,Meru,Banana,41-60%,Small scale,Small scale,NA,Small scale,NA,Small scale
+33,Meru,Dairy cow,41-60%,Medium scale,Small scale,NA,Large scale,NA,Small scale
+34,Meru,Maize,81-100%,Medium and small scale,Small scale,NA,Small scale,NA,Medium and small scale
+35,Meru,Irish Potatoes,41-60%,medium scale input suppliers in the county but majority dealing with farmers are small scale,Small scale,NA,Small scale,NA,Medium and small scale
+36,Garissa,Milk (Cattle/Goats),81-100%,NA,Medium scale,NA,NA,NA,NA
+37,Garissa,Meat,61-80%,NA,Medium scale,NA,NA,NA,NA
+38,Garissa,Fruits and Vegetables,1-20%,Small scale,Small scale,NA,Small scale,NA,Small scale
+39,Garissa,Cereals,1-20%,Small scale,NA,NA,NA,NA,NA
+40,Homabay,Beans,81-100%,Medium and small scale,Medium and small scale,NA,Small scale,NA,Small scale
+41,Homabay,Maize,81-100%,Small scale,Small scale,NA,Small scale,NA,Medium scale
+42,Homabay,Aquaculture (fish),61-80%,Medium scale,Large scale,NA,Large scale,NA,Large scale
+43,Homabay,Local poultry,81-100%,Small scale,Small scale,NA,NA,NA,Small scale
+44,West Pokot,Maize,61-80%,NA,Small scale,NA,NA,NA,NA
+45,West Pokot,Goats,61-80%,NA,Large scale,NA,NA,NA,NA
+46,West Pokot,Cattle (milk),41-60%,NA,Small scale,NA,NA,NA,NA
+47,West Pokot,Bulb onions,1-20%,NA,Small scale,NA,NA,NA,NA
+48,Kwale,Local Poultry (meat),61-80%,Small scale,NA,NA,NA,NA,NA
+49,Kwale,Maize,81-100%,NA,Small scale,NA,NA,NA,NA
+50,Kwale,Goat (meat),41-60%,NA,Small scale,NA,NA,NA,NA
+51,Kwale,Cowpeas,61-80%,NA,Small scale,NA,NA,NA,NA
+52,Tana River,Mango,61-80%,NA,Small scale,NA,NA,NA,NA
+53,Tana River,Maize,61-80%,NA,Small scale,NA,NA,NA,NA
+54,Tana River,Green grams,41-60%,NA,Small scale,NA,NA,NA,NA
+55,Tana River,Goat (meat),61-80%,NA,Medium scale,NA,NA,NA,NA
+56,Kilifi,Dairy cow/ goat,21-40%,Small scale,NA,NA,NA,NA,NA
+57,Kilifi,Cassava,61-80%,Small scale,NA,NA,NA,NA,NA
+58,Kilifi,African Bird eye chilli,61-80%,NA,NA,NA,NA,NA,NA
+59,Baringo,Dairy cow,61-80%,Small scale,Highlands average of 20 cows low land 2 cows per household,Medium scale,Medium scale,Mostly retailers who are general shop dealers,High
+60,Baringo,Maize,81-100%,Large scale,"Small scale (70%), Medium (20%), Large scale(1%)",Medium scale,Very high,"Brokers (70%), seed growers (100%), NCPB (50%)",Low
+61,Baringo,Goat (meat),41-60%,"Medium scale-unskilled, Small-scale-skilled",Its mostly for subsistence purposes not commercial,Small scale,Low,Majority of them are from outside the county,Low
+62,Baringo,Indigenous chicken,81-100%,Small scale,Production is done as a small scale business,Small scale,Very high,Only retailers due to low volumes supplied to the market,High
+63,Bomet,Banana,61-80%,Medium and small scale,Medium and small scale,Medium and small scale,Small scale,Small scale,Small scale
+64,Bomet,Irish Potatoes,41-60%,Medium scale,Medium scale,Small scale,Small scale,Small scale,Medium scale
+65,Bomet,Local chicken,61-80%,Small scale,Small scale,Small scale,Small scale,Medium and small scale,Small scale
+66,Bomet,Sweet potatoes,21-40%,Small scale,Medium scale,Small scale,Small scale,Small scale,Medium scale
+67,Elgeyo Marakwet,Beans,61-80%,NA,"All (large, medium and small scale)",Large scale,NA,Large scale,NA
+68,Elgeyo Marakwet,Irish Potatoes,41-60%,Large and small scale,Large and small scale,Small scale,Small scale,Large scale,NA
+69,Elgeyo Marakwet,Local chicken,81-100%,Large and small scale,Small scale,Small scale,Small scale,Small scale,NA
+70,Elgeyo Marakwet,Cattle (milk),81-100%,Small scale,Small scale,Medium scale,Small scale,Medium scale,Small scale
+71,Isiolo,Local chicken,61-80%,NA,Small scale,NA,NA,NA,NA
+72,Isiolo,Green grams,41-60%,Small scale,Medium scale,Large scale,Small scale,Large scale,Medium scale
+73,Isiolo,Goat (meat),61-80%,Small scale,Large scale,Small scale,NA,Medium scale,Small scale
+74,Isiolo,Camel (milk),1-20%,Small scale,Large scale,Medium scale,Large scale,Small scale,Medium scale
+75,Kajiado,Cattle (milk),61-80%,Small scale,Medium scale,Small scale,Small scale,Medium scale,Small scale
+76,Kajiado,Cattle (meat),61-80%,Large scale,Small scale,Small scale,Small scale,Large scale,Small scale
+77,Kajiado,Tomatoes,41-60%,Small scale,Small scale,Medium scale,NA,Medium scale,Medium scale
+78,Kajiado,Goat (meat),61-80%,Small scale,Large scale,Large scale,Small scale,Large scale,Medium scale
+79,Kakamega,Local vegetables,81-100%,Medium scale,Medium scale,Small scale,Small scale,Small scale,Large scale
+80,Kakamega,Maize,81-100%,Large scale,Large scale,Small scale,Small scale,Small scale,Small scale
+81,Kakamega,Dairy cow,41-60%,Small scale,Small scale,Small scale,Small scale,Small scale,Small scale
+82,Kakamega,Local chicken,81-100%,Small scale,Small scale,Small scale,Small scale,Small scale,Small scale
+83,Kericho,Local vegetables,61-80%,Large scale,Small scale,Small scale,Small scale,Small scale,Small scale
+84,Kericho,Local chicken,61-80%,Medium scale,Small scale,Medium scale,Small scale,Medium scale,Medium scale
+85,Kericho,Banana,41-60%,Small scale,Small scale,Small scale,Small scale,Small scale,Small scale
+86,Kericho,Tea,61-80%,Large and small scale,"All (large, medium and small scale)",Large and small scale,Large and medium scale,"All (large, medium and small scale)",Small scale
+87,Kisumu,Cassava,41-60%,Small scale,Medium and small scale,Small scale,Medium scale,Small scale,Large scale
+88,Kisumu,Local chicken,81-100%,Large scale,Large scale,Medium scale,Medium scale,Medium scale,Medium scale
+89,Kisumu,Cowpeas,41-60%,Medium scale,Medium scale,NA,NA,NA,Large and medium scale
+90,Kisumu,Sorghum,41-60%,Small scale,Medium scale,Large scale,Large scale,Small scale,Medium scale
+91,Laikipia,Indigenous chicken,81-100%,Small scale,Small scale,Small scale,Small scale,Small scale,Small scale
+92,Laikipia,Cattle (milk),41-60%,Large and small scale,Small scale,Medium and small scale,"All (large, medium and small scale)",Small scale,"All (large, medium and small scale)"
+93,Laikipia,Maize,61-80%,Medium and small scale,Small scale,Small scale,Small scale,Medium and small scale,Medium and small scale
+94,Laikipia,Sheep,61-80%,Large and small scale,"All (large, medium and small scale)",Medium and small scale,Medium and small scale,Medium scale,Medium and small scale
+95,Lamu,Fish,61-80%,Medium and small scale,NA,Small scale,Small scale,High,Medium and small scale
+96,Lamu,Cotton,61-80%,Large and small scale,Small scale,Medium and small scale,Medium scale,Very high,Medium and small scale
+97,Lamu,Indigenous chicken,61-80%,Small scale,Small scale,Small scale,Small scale,Small scale,Small scale
+98,Lamu,Cashew nuts,61-80%,"All (large, medium and small scale)",Small scale,Small scale,Small scale,Medium and small scale,Large and medium scale
+99,Machakos,Pigeon peas,81-100%,Medium scale,Small scale,Small scale,Medium scale,Small scale,Medium scale
+100,Machakos,Mango,41-60%,Large scale,Medium scale,Small scale,Small scale,Medium scale,Medium scale
+101,Machakos,Indigenous chicken,61-80%,Medium scale,Small scale,Small scale,Small scale,Small scale,Small scale
+102,Machakos,Green grams,41-60%,Large and small scale,Large and small scale,Medium scale,NA,Large and small scale,Medium and small scale
+103,Mandera,Sorghum,61-80%,Large scale,Small scale,Small scale,Small scale,Small scale,Small scale
+104,Mandera,Tomatoes,61-80%,Medium and small scale,Small scale,Small scale,Small scale,Small scale,Small scale
+105,Mandera,Goat (meat),61-80%,Large scale,Large scale,Medium scale,Small scale,Medium scale,Large scale
+106,Mandera,Camel (milk),61-80%,Small scale,Small scale,Small scale,Small scale,Medium scale,Medium scale
+107,Marsabit,Kales,21-40%,Small scale,Small scale,Small scale,Small scale,Small scale,Small scale
+108,Marsabit,Teff,1-20%,Small scale,Small scale,Small scale,Small scale,Small scale,NA
+109,Marsabit,Goat (meat),61-80%,Small scale,Small scale,Small scale,Small scale,Medium scale,Small scale
+110,Marsabit,Fish,1-20%,Medium scale,Small scale,Medium scale,Medium scale,Medium scale,Medium scale
+111,Tharaka Nithi,Green grams,41-60%,Small scale,Medium and small scale,High,Small scale,Very high,Medium and small scale
+112,Tharaka Nithi,Local chicken,61-80%,Small scale,Small scale,Medium scale,Small scale,Very high,Large scale
+113,Tharaka Nithi,Goat (meat),61-80%,Small scale,Small scale,Medium scale,Small scale,Low,Small scale
+114,Tharaka Nithi,Cattle (milk),61-80%,Large and small scale,Small scale,Large scale,NA,Large scale,Large and small scale
+115,Uasin Gishu,Irish Potatoes,21-40%,"All (large, medium and small scale)",Small scale,Small scale,NA,NA,Large scale
+116,Uasin Gishu,Local chicken,81-100%,"All (large, medium and small scale)",Small scale,Small scale,NA,NA,Small scale
+117,Uasin Gishu,Maize,61-80%,"All (large, medium and small scale)",Small scale,"All (large, medium and small scale)","All (large, medium and small scale)","All (large, medium and small scale)","All (large, medium and small scale)"
+118,Uasin Gishu,Dairy cow,81-100%,"All (large, medium and small scale)","All (large, medium and small scale)","All (large, medium and small scale)","All (large, medium and small scale)","All (large, medium and small scale)","All (large, medium and small scale)"
+119,Wajir,Camel (milk),61-80%,Medium scale,Small scale,Small scale,Medium scale,Medium scale,Medium scale
+120,Wajir,Chicken,61-80%,Medium scale,Large scale,Medium scale,Small scale,Medium scale,Medium scale
+121,Wajir,Sorghum,21-40%,Small scale,Medium scale,Medium scale,Medium scale,Small scale,Small scale
+122,Wajir,Water melon,21-40%,Small scale,Medium scale,Small scale,Small scale,Medium scale,Large scale
+123,Bungoma,Maize,81-100%,"All (large, medium and small scale)","All (large, medium and small scale)",NA,Medium and small scale,NA,"All (large, medium and small scale)"
+124,Bungoma,Local chicken,81-100%,Small scale,Large and small scale,NA,Large and small scale,NA,"All (large, medium and small scale)"
+125,Bungoma,Cattle (milk),41-60%,"All (large, medium and small scale)",Medium and small scale,NA,"All (large, medium and small scale)",NA,"All (large, medium and small scale)"
+126,Bungoma,Beans,61-80%,Medium scale,Small scale,NA,Small scale,NA,Medium and small scale
+127,Kiambu,Banana,21-40%,Medium scale,Small scale,NA,Small scale,NA,Small scale
+128,Kiambu,Cattle (milk),21-40%,"All (large, medium and small scale)",Small scale,NA,Small scale,NA,Medium scale
+129,Kiambu,Irish Potatoes,1-20%,Large scale,Small scale,NA,Large scale,NA,Medium scale
+130,Kiambu,Local chicken,21-40%,Medium scale,Large scale,NA,Small scale,NA,Medium scale
+131,Kirinyaga,Tomatoes,21-40%,"All (large, medium and small scale)","All (large, medium and small scale)",NA,No processing,NA,"All (large, medium and small scale)"
+132,Kirinyaga,Local chicken,61-80%,Small scale,Small scale,NA,Small scale,NA,Small scale
+133,Kirinyaga,Avocado,41-60%,"Medium scale (organic and inorgainic manure, seedlings)",Small scale,NA,No processing,NA,Medium and small scale
+134,Kirinyaga,Banana,61-80%,Large scale,Small scale,NA,Small scale,NA,Medium scale
+135,Kirinyaga,Cattle (milk),41-60%,Small scale,Small scale,NA,Medium and small scale,NA,Medium and small scale
+136,Kisii,Banana,81-100%,"All (large, medium and small scale)","All (large, medium and small scale)",NA,Small scale,NA,"All (large, medium and small scale)"
+137,Kisii,Cattle (milk),41-60%,"All (large, medium and small scale)","All (large, medium and small scale)",NA,Small scale,NA,Small scale
+138,Kisii,Indigenous vegetables,81-100%,"Medium scale (seeds), small scale","All (large, medium and small scale)",NA,Small scale,NA,"All (large, medium and small scale)"
+139,Kisii,Local chicken,81-100%,Medium scale,Small scale,NA,Small scale,NA,Small scale
+140,Kitui,Mangoes,81-100%,Medium scale,Small scale,NA,Medium and small scale,NA,Medium and small scale
+141,Kitui,Green grams,61-80%,Small scale,Small scale,NA,Small scale,NA,Medium scale
+142,Kitui,Local chicken,81-100%,Small scale,Small scale,NA,Small scale,NA,Small scale
+143,Kitui,Goat,61-80%,Small scale,Large scale,NA,Medium scale,NA,Medium scale
+144,Migori,Sweet potatoes,41-60%,Small scale,"All (large, medium and small scale)",NA,Small scale,NA,Small scale
+145,Migori,Local vegetables,21-40%,Medium scale,Small scale,NA,Small scale,NA,NA
+146,Migori,Local chicken,81-100%,Medium and small scale,Large and small scale,NA,Small scale,NA,Medium and small scale
+147,Migori,Goat (meat),41-60%,Small scale,Small scale,NA,Small scale,NA,Small scale
+148,Murang'a,Local chicken,81-100%,Small scale,Small scale,NA,Small scale,NA,Small scale
+149,Murang'a,Cattle (milk),61-80%,Medium scale,Small scale,NA,Large scale,NA,Medium scale
+150,Murang'a,Banana,41-60%,Small scale,Small scale,NA,Small scale,NA,Small scale
+151,Murang'a,Avocado,41-60%,Small scale,Small scale,NA,Large scale,NA,Small scale
+152,Nandi,Indigenous chicken,81-100%,"All (large, medium and small scale)",Medium and small scale,NA,Medium and small scale,NA,Small scale
+153,Nandi,Cattle (milk),81-100%,"All (large, medium and small scale)","All (large, medium and small scale)",NA,"All (large, medium and small scale)",NA,"All (large, medium and small scale)"
+154,Nandi,Maize,81-100%,"All (large, medium and small scale)","All (large, medium and small scale)",NA,Medium and small scale,NA,"All (large, medium and small scale)"
+155,Nandi,Tea,41-60%,"All (large, medium and small scale)","All (large, medium and small scale)",NA,Large scale,NA,"All (large, medium and small scale)"
+156,Narok,Sheep (meat),81-100%,Medium scale,Large scale,NA,Small scale,NA,Small scale
+157,Narok,Maize,61-80%,Medium scale,"All (large, medium and small scale)",NA,Medium and small scale,NA,"All (large, medium and small scale)"
+158,Narok,Local chicken,81-100%,Medium scale,Small scale,NA,Medium scale,NA,Medium scale
+159,Narok,Cattle (milk),81-100%,Medium scale,Medium scale,NA,Small scale,NA,"All (large, medium and small scale)"
+160,Nyamira,Local chicken,61-80%,Medium and small scale,"All (large, medium and small scale)",NA,Small scale,NA,Medium and small scale
+161,Nyamira,Local vegetables,71-80%,Small scale,Small scale,NA,Small scale,NA,Small scale
+162,Nyamira,Cattle (milk),81-100%,Medium scale,Small scale,NA,Medium scale,NA,Medium and small scale
+163,Nyamira,Banana,81-100%,Small scale,Small scale,NA,Small scale,NA,Medium scale
+164,Samburu,Local chicken,41-60%,Small scale,Small scale,NA,NA,NA,Small scale
+165,Samburu,Cattle (meat),81-100%,Small scale,Small scale,NA,Small scale,NA,Small scale
+166,Samburu,Apiculture,21-40%,Large scale,Small scale,NA,Medium scale,NA,Small scale
+167,Samburu,Shoats,81-100%,Small scale,Large scale,NA,Small scale,NA,Medium scale
+168,Trans Nzoia,Maize,81-100%,"Seeds,fertilizers and pesticides, equipment and machinery, packaging- large,small and medium scale","All (large, medium and small scale)",NA,"All (large, medium and small scale)",NA,"All (large, medium and small scale)"
+169,Trans Nzoia,Indigenous chicken,81-100%,"All (large, medium and small scale)","All (large, medium and small scale)",NA,Medium and small scale,NA,Small scale
+170,Trans Nzoia,Cattle (milk),81-100%,"All (large, medium and small scale)","All (large, medium and small scale)",NA,Large and medium scale,NA,"Supermarkets, milk dispensors, milk bars, hawkers, farm gate selling and county government"
+171,Trans Nzoia,Beans,61-80%,Small scale,Medium and small scale,NA,NA,NA,Medium and small scale
+172,Turkana,Sorghum,61-80%,Small scale,Small scale,NA,Small scale,NA,Small scale
+173,Turkana,Shoats,81-100%,Small scale,Large scale,NA,Small scale,NA,Large scale
+174,Turkana,Local poultry,61-80%,Medium scale,Large scale,NA,Small scale,NA,Medium scale
+175,Turkana,Fisheries,21-40%,Medium scale,Medium scale,NA,Medium scale,NA,Large and medium scale
+176,Vihiga,Indigenous chicken,81-100%,Small scale,"All (large, medium and small scale)",NA,Small scale,NA,Small scale
+177,Vihiga,Cattle (milk),61-80%,Medium and small scale,Medium and small scale,NA,Small scale,NA,Small scale
+178,Vihiga,Banana,81-100%,small scale- seed and fertilizer suppliers,Medium and small scale,NA,Medium and small scale,NA,Medium and small scale
+179,Vihiga,African indigenous vegetables,81-100%,Medium and small scale,Small scale,NA,Small scale,NA,Medium and small scale

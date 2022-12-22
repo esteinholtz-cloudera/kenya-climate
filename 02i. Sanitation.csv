@@ -1,0 +1,48 @@
+ID,County,Improved sanitation services toilet type_flush to piped sewer system(%),Improved sanitation services toilet type_flush to septic tank(%),Improved sanitation services toilet type_composting toilet(%),Improved sanitation services toilet type_flush to pit (latrine)(%),Improved sanitation services toilet type_ventilated improved pit latrine (vip)(%),Improved sanitation services toilet type_pit latrine with slab(%),Unimproved sanitation services toilet type_flush to somewhere else(%),Unimproved sanitation services toilet type_no facility/bush/field(%),Unimproved sanitation services toilet type_other(%),Unimproved sanitation services toilet type_not stated(%),Unimproved sanitation services toilet type_number of households ('000),Unimproved sanitation services toilet type_flush to unknown place / not sure/don't know where(%),Unimproved sanitation services toilet type_pit latrine without slab/open pit(%),Unimproved sanitation services toilet type_bucket toilet(%),Household sharing toilet_proportion of households with toilet facility(%),Household sharing toilet_number of households ('000) a,Household sharing toilet_households with toilet facility(shared toilet)(%),Household sharing toilet_households with toilet facility(not shared)(%),Household sharing toilet_households with toilet facility(not stated)(%),Household sharing toilet_number of households ('000) b,Waste disposal_collected by county government(%),Waste disposal_collected by community association(%),Waste disposal_collected by private company(%),Waste disposal_dumped in the compound(%),Waste disposal_dumped in the street/vacant plot/drain(%),Waste disposal_dumped in the latrine(%),Waste disposal_burnt in open(%),Waste disposal_buried(%),Waste disposal_other(%),Waste disposal_not stated(%),Waste disposal_number of households ('000)
+1,Baringo,0,0,0,0,11,58,0,27,0,0,152,0,0,0,71,152,47,52,0,109,3,0,0,13,0,0,80,0,0,0,152
+2,Bomet,0,1,0,0,4,24,0,5,0,0,179,0,63,0,94,179,51,48,0,168,0,0,7,8,0,0,63,17,0,0,179
+3,Bungoma,1,1,0,0,4,30,0,7,0,1,321,0,52,0,91,321,42,57,0,294,0,0,0,21,2,2,41,1,29,1,321
+4,Busia,0,0,0,0,12,47,0,1,0,0,177,0,37,0,98,177,53,46,0,175,0,0,0,53,9,0,22,0,12,0,177
+5,Elgeyo-Marakwet,0,0,0,0,15,56,0,12,0,0,99,0,14,0,87,99,29,71,0,87,1,0,0,2,3,0,90,0,0,0,99
+6,Embu,1,5,0,0,13,77,0,0,0,0,164,0,0,0,99,164,35,64,0,163,2,0,1,44,7,19,23,0,0,0,164
+7,Garissa,0,1,0,18,9,14,0,43,0,0,78,0,11,0,56,78,67,32,0,44,2,0,0,52,21,0,20,0,0,0,78
+8,Homa Bay,0,0,0,1,0,22,0,17,0,0,224,0,56,0,81,224,65,34,0,184,0,0,0,5,31,0,47,3,11,0,224
+9,Isiolo,8,0,0,0,26,35,0,21,0,0,34,0,6,0,78,34,68,31,0,26,5,0,3,30,13,0,44,3,0,0,34
+10,Kajiado,1,26,0,1,36,19,0,11,0,0,250,0,3,0,87,250,52,48,0,219,4,0,35,10,4,3,39,1,0,0,250
+11,Kakamega,1,0,0,0,14,14,0,0,0,0,392,0,66,0,99,392,46,53,0,391,0,0,1,47,1,0,46,0,0,0,392
+12,Kericho,3,1,0,0,7,67,0,4,0,0,211,0,16,0,95,211,48,51,0,200,6,2,8,12,25,1,39,4,0,0,211
+13,Kiambu,10,12,0,3,6,56,0,0,0,0,600,0,9,0,99,600,58,42,0,599,11,3,14,30,6,0,33,1,0,0,600
+14,Kilifi,0,23,0,16,1,28,0,14,0,1,326,0,13,0,83,326,70,30,0,272,3,6,0,11,17,0,57,0,1,1,326
+15,Kirinyaga,0,7,0,1,12,65,0,0,0,0,198,0,12,0,99,198,51,48,0,198,1,0,2,51,4,0,21,0,17,0,198
+16,Kisii,0,2,0,2,17,19,0,0,0,0,291,0,58,0,99,291,36,63,0,290,0,0,0,60,9,2,20,5,0,0,291
+17,Kisumu,5,2,0,1,14,73,0,2,0,0,284,0,0,0,97,284,65,34,0,276,0,1,4,8,15,2,52,15,1,0,284
+18,Kitui,0,1,0,0,12,42,0,13,0,0,236,0,29,0,86,236,39,60,0,203,2,0,0,76,8,0,12,0,0,0,236
+19,Kwale,5,3,0,6,5,13,0,43,0,0,174,0,22,0,56,174,58,42,0,98,4,0,0,38,9,0,41,0,5,0,174
+20,Laikipia,9,3,0,1,1,25,0,15,0,0,135,2,39,0,84,135,47,52,0,114,16,0,0,25,2,0,53,0,0,0,135
+21,Lamu,0,8,0,21,6,33,0,9,0,0,30,0,20,0,90,30,34,65,0,27,4,0,0,13,28,0,46,0,5,0,30
+22,Machakos,4,6,0,0,28,44,0,1,0,0,328,0,15,0,98,328,62,37,0,323,10,0,0,39,14,0,12,0,22,0,328
+23,Makueni,0,0,0,1,14,72,0,1,0,0,233,0,10,0,98,233,37,62,0,229,3,0,1,74,5,0,8,0,4,0,233
+24,Mandera,0,0,0,0,7,33,0,50,0,0,111,0,9,0,49,111,60,40,0,55,5,0,0,5,27,0,59,0,0,0,111
+25,Marsabit,0,0,0,0,4,21,0,51,0,0,62,0,22,0,48,62,51,48,0,30,1,0,0,18,1,0,78,0,0,0,62
+26,Meru,0,3,2,1,20,20,0,0,0,0,393,0,50,0,99,393,43,56,0,393,3,0,0,31,4,1,39,1,18,0,393
+27,Migori,0,0,0,0,11,26,0,22,0,0,233,0,39,0,77,233,50,49,0,180,0,0,0,40,25,1,26,5,0,0,233
+28,Mombasa,7,32,0,20,11,14,0,0,0,0,397,0,12,0,98,397,75,24,0,392,4,2,22,22,21,0,6,0,20,0,397
+29,Murang'a,3,1,0,2,13,45,0,0,0,0,323,0,33,0,99,323,41,58,0,320,3,0,0,75,4,6,9,0,0,0,323
+30,Nairobi,60,6,0,1,2,21,0,0,0,0,1503,2,2,1,99,1503,68,31,0,1492,2,39,29,4,16,0,7,0,0,0,1503
+31,Nakuru,10,7,0,2,18,23,0,0,0,0,578,0,36,0,98,578,52,47,0,572,9,0,17,21,5,0,38,3,2,0,578
+32,Nandi,1,1,0,0,22,44,0,2,0,0,202,0,26,0,97,202,38,62,0,197,1,0,0,56,0,0,39,0,0,0,202
+33,Narok,0,0,0,0,10,30,0,30,0,1,223,0,26,0,68,223,59,40,0,152,1,0,0,41,13,0,34,5,2,1,223
+34,Nyamira,0,1,0,0,8,30,4,0,0,0,179,0,54,0,99,179,36,63,0,178,0,0,0,57,6,2,32,0,0,0,179
+35,Nyandarua,1,0,0,0,11,67,0,0,0,0,191,0,17,0,99,191,37,62,0,191,5,0,1,27,2,1,56,5,0,0,191
+36,Nyeri,2,3,0,5,18,25,0,0,0,0,271,0,44,0,100,271,50,49,0,271,1,0,0,7,4,2,83,1,0,0,271
+37,Samburu,0,1,0,0,11,18,0,65,0,0,61,0,3,0,34,61,66,33,0,21,6,0,0,66,2,0,24,0,0,0,61
+38,Siaya,0,0,0,0,7,36,0,4,2,0,246,0,49,0,93,246,67,33,0,230,0,0,0,65,2,4,25,2,0,0,246
+39,Taita Taveta,0,15,0,0,15,66,0,0,0,0,102,0,0,0,98,102,38,61,0,101,4,1,0,8,0,0,84,0,0,0,102
+40,Tana River,0,3,0,15,0,40,0,34,0,0,56,0,4,0,65,56,61,38,0,37,0,0,0,12,31,0,51,1,2,0,56
+41,Tharaka-Nithi,0,2,0,0,14,78,0,0,0,0,107,0,2,0,99,107,45,54,0,106,1,0,0,9,36,1,48,2,0,0,107
+42,Trans Nzoia,2,3,0,0,23,7,0,1,0,0,210,0,61,0,98,210,41,58,0,207,2,2,0,13,12,0,59,7,2,0,210
+43,Turkana,0,1,0,1,7,21,1,62,0,0,246,1,3,0,37,246,64,35,0,91,0,0,0,59,18,0,16,0,4,0,246
+44,Uasin Gishu,9,2,0,0,26,44,0,1,0,0,270,0,15,0,98,270,49,50,0,265,11,0,4,45,7,0,14,12,2,0,270
+45,Vihiga,0,0,0,0,16,26,0,0,0,0,144,0,56,0,99,144,44,55,0,144,2,0,0,46,0,0,48,2,0,0,144
+46,Wajir,0,1,1,0,1,0,0,50,0,0,69,0,28,12,48,69,65,34,0,33,2,1,1,15,9,0,58,10,0,0,69
+47,West Pokot,0,0,0,0,12,14,0,52,0,0,119,0,19,0,47,119,33,64,1,56,2,0,0,77,2,0,6,2,7,0,119
